@@ -1,0 +1,20 @@
+.ts-control {
+    border-color: #007a78;
+    background: none;
+    padding: 10px;
+    border-radius: 0;
+}
+
+.ts-control > input{
+    font-size: 18px;
+}
+.ts-wrapper.multi .ts-control > div  {
+    background: #007a78;
+    color: white;
+    font-size: 18px;
+}
+
+.ts-dropdown-content {
+    font-size: 18px;
+    color: #007a78;
+}
